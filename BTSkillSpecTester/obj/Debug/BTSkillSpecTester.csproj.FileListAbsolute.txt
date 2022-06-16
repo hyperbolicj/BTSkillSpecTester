@@ -1,0 +1,10 @@
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\bin\Debug\BTSkillSpecTester.exe.config
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\bin\Debug\BTSkillSpecTester.exe
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\bin\Debug\BTSkillSpecTester.pdb
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.csprojAssemblyReference.cache
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.BTSkillSpecTester.resources
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.Properties.Resources.resources
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.csproj.GenerateResource.cache
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.csproj.CoreCompileInputs.cache
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.exe
+C:\Users\Dame Sophie Stehlik\source\repos\BTSkillSpecTester\BTSkillSpecTester\obj\Debug\BTSkillSpecTester.pdb
